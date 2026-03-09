@@ -1,4 +1,4 @@
-# 🍷 Análise de Dados Vitivinícolas para Business Intelligence
+# 🍷 [Análise de Dados Vitivinícolas para Business Intelligence](https://www.linkedin.com/feed/update/urn:li:activity:7391971838517649409/)
 
 ## 🎯 Objetivo do Projeto
 
