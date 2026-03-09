@@ -137,12 +137,3 @@ Os dados tratados permitem a análise de indicadores-chave de desempenho (KPIs) 
 1.  **Abrir no Colab:** Clique no emblema "Open in Colab" no topo deste arquivo.
 2.  **Estrutura de Pastas:** Certifique-se de que sua estrutura de pastas no Google Drive corresponde à descrita acima.
 3.  **Execução:** Execute todas as células em ordem sequencial. O notebook irá montar seu Google Drive, ler os arquivos brutos, processá-los e salvar os resultados na pasta `Gold_Data`.
-
----
-
-## 👥 Autores
-* [Gabriel Nunes]
-* [Wagner da Silva Junior]
-* [Bruno de Oliveira Fernandes]
-* [Jonathan Silveira Paixão]
-* [Rafael Vieira Vidal]
