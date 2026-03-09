@@ -1,4 +1,3 @@
-# Tech Challenge FIAP - Fase 1 - Data Analysis and Exploration
 # 🍷 Análise de Dados Vitivinícolas para Business Intelligence
 
 ## 🎯 Objetivo do Projeto
